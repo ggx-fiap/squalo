@@ -22,6 +22,12 @@ Este tipo de abordagem pode ser muito útil para reduzir o custo operacional rel
 * https://medium.com/@crp_underground/criando-um-simples-voice-recognition-com-javascript-51fded1cc8d1
 * https://codeburst.io/html5-speech-recognition-api-670846a50e92
 
+## Servicos
+* IBM
+* GCP
+* Azure
+* AWS
+
 ## Bibliotecas
 ### Python
 * Spacy - https://spacy.io/
@@ -34,3 +40,11 @@ Este tipo de abordagem pode ser muito útil para reduzir o custo operacional rel
 
 ### JS
 * Artyom.js - https://sdkcarlos.github.io/sites/artyom.html
+
+### Cross-Platform Frameworks 
+* TensorFlow
+* Keras
+* MS CNTK
+* Torch / PyTorch
+* Mxnet
+* Caffe2
