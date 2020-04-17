@@ -1,4 +1,7 @@
 # Projeto Squalo
+## Site
+* https://ggx-fiap.github.io/squalo/docs/
+
 ## Objetivo
 Utilizar machine learning para criar uma solução que permita fazer busca em bases de dados de voz.
 Este tipo de abordagem pode ser muito útil para reduzir o custo operacional relacionado a:
